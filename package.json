@@ -44,7 +44,7 @@
     "sortablejs": "^1.15.0",
     "sweetalert2": "^11.4.8",
     "sweetalert2-react-content": "^5.0.7",
-    "swiper": "^9.4.1"
+    "swiper": "^9.4.1",
 	"vite": "^4.3.9"
   },
   "devDependencies": {
